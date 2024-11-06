@@ -1,0 +1,18 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+input {
+  margin: 5px;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+pre {
+  background-color: #f0f0f0;
+  padding: 10px;
+}

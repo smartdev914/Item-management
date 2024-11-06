@@ -1,0 +1,17 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+input {
+  padding: 0.5em;
+  margin: 0.5em;
+}
+
+button {
+  padding: 0.5em;
+}
+
+h1, h2 {
+  color: #333;
+}
